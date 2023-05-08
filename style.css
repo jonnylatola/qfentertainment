@@ -2,7 +2,7 @@ html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,ad
 
 /* CSS */
 .button-82-pushable {
-  position: relative;
+  position: auto;
   border: none;
   background: transparent;
   padding: 0;
@@ -18,7 +18,7 @@ html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,ad
 }
 
 .button-82-shadow {
-  position: absolute;
+  position: auto;
   top: 0;
   left: 0;
   width: 100%;
@@ -34,7 +34,7 @@ html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,ad
 }
 
 .button-82-edge {
-  position: absolute;
+  position: auto;
   top: 0;
   left: 0;
   width: 100%;
